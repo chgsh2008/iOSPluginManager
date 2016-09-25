@@ -1,0 +1,15 @@
+PODS:
+  - JSONKit (1.4)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - JSONKit (~> 1.4)
+  - YYKit (~> 1.0.7)
+
+SPEC CHECKSUMS:
+  JSONKit: 5b69e804ea54d99293eed0fd2ce596c5703fefb0
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+COCOAPODS: 0.39.0
