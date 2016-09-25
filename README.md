@@ -1,0 +1,2 @@
+# iOSPluginManager
+plugins for iOS
